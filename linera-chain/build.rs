@@ -7,3 +7,4 @@ fn main() {
         with_metrics: { all(not(target_arch = "wasm32"), feature = "metrics") },
     };
 }
+:
