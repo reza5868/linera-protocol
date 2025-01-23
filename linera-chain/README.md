@@ -8,6 +8,6 @@ This module manages the state of a Linera chain, including cross-chain communica
 
 See the [CONTRIBUTING](../CONTRIBUTING.md) file for how to help out.
 
-## License
+### License
 
 This project is available under the terms of the [Apache 2.0 license](../LICENSE).
