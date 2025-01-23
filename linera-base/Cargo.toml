@@ -9,7 +9,7 @@ edition.workspace = true
 homepage.workspace = true
 license.workspace = true
 repository.workspace = true
-version.workspace = true
+version.workspace = false
 
 [features]
 test = ["test-strategy", "proptest"]
